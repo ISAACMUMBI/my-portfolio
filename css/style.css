@@ -6,3 +6,9 @@ body{
 float:right;
 border-radius:20%;
 }
+.footer {
+  background-color: aquamarine;
+}
+.footer_list{
+  margin-bottom: 0;
+}
